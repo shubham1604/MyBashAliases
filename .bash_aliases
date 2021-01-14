@@ -1,3 +1,5 @@
+alias pull="git pull origin master"
+alias ga="git add"
 alias commit="git commit"
 alias push="git push origin master"
 alias amend="git commit --amend --no-edit"
